@@ -1,0 +1,70 @@
+body
+{
+	background-image: url("picha.jpg");
+	background-position: center;
+	background-size: cover;
+	
+}
+.login-box
+{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+
+
+}
+.login-left
+{
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+}
+.login-right
+{
+	background: white;
+	padding: 30px;
+	
+}
+/*.form-control
+{
+	background-color: transparent !important;
+}
+*/
+button:focus,
+button:hover
+{
+	background-color: green !important;
+}
+.meza {
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: normal;
+   
+    border-collapse: collapse;
+    width: 80% ;
+    max-width: 40%;
+    white-space: nowrap;
+    background: rgba(211, 211, 211, 0.5);
+    margin-left: 100px auto;
+    box-shadow: 50px 50px 50rem green;
+}
+.meza td, .meza th {
+    text-align: center;
+    padding: 8px;
+}
+/*
+.meza td {
+    background: rgba(211, 211, 211, 0.5);
+    font-size: 20px;
+}
+
+
+
+
+.meza thead th:nth-child(odd) {
+    
+    background: rgba(211, 211, 211, 0.5);;
+}
+
+.meza tr:nth-child(even) {
+    background: rgba(211, 211, 211, 0.5);*/
+
